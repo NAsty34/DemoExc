@@ -19,9 +19,6 @@ namespace st_Mihailova_telecom1_projectApp
     /// </summary>
     public partial class Rates : Window
     {
-        public Rates()
-        {
-            InitializeComponent();
-        }
+       
     }
 }

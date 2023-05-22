@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:st_Mihailova_telecom1_projectApp"
         mc:Ignorable="d"
-        Title="SearchByAddress" Height="1800" Width="900" Icon="Image/image.ico">
+        Title="SearchByAddress" Height="900" Width="900" Icon="Image/image.ico">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="251*"></ColumnDefinition>
@@ -13,10 +13,10 @@
             <ColumnDefinition Width="263*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="149*"></RowDefinition>
-            <RowDefinition Height="100*"></RowDefinition>
-            <RowDefinition Height="100*"></RowDefinition>
-            <RowDefinition Height="1635*"></RowDefinition>
+            <RowDefinition Height="33*"></RowDefinition>
+            <RowDefinition Height="25*"></RowDefinition>
+            <RowDefinition Height="25*"></RowDefinition>
+            <RowDefinition Height="138*"></RowDefinition>
         </Grid.RowDefinitions>
 
 
@@ -26,14 +26,14 @@
             <Button Margin="90,0,0,0" Width="150" Height="60" Content="LogIn" FontSize="30" Background="#B5DEFA"/>
         </StackPanel>
 
-        <TextBlock Grid.Row="1" Grid.ColumnSpan="3" Text="Введите или выберите адресс для проверки возможности подключения" FontSize="30" Width="600" TextAlignment="Center" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="3" Text="Введите или выберите адресс для проверки возможности подключения" FontSize="30" Width="600" TextAlignment="Center" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" Height="79"/>
         <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.ColumnSpan="3">
             <ComboBox VerticalAlignment="Center" FontSize="30" Width="700" Margin="20,0,0,0">
                 <ComboBoxItem>Tom</ComboBoxItem>
             </ComboBox>
             <Button VerticalAlignment="Center" FontSize="30" Content="Поиск" Width="130" Margin="30,0,0,0" Background="#B5DEFA"/>
         </StackPanel>
-        
+
         <DataGrid Grid.Row="3" Grid.ColumnSpan="3" VerticalScrollBarVisibility="Visible"/>
     </Grid>
 </Window>

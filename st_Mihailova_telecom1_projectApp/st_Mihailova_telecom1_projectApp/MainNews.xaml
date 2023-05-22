@@ -1,0 +1,38 @@
+﻿<Window x:Class="st_Mihailova_telecom1_projectApp.MainNews"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:st_Mihailova_telecom1_projectApp"
+        mc:Ignorable="d"
+        Title="MainNews" Height="900" Width="900" Icon="Image/image.ico">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="251*"></ColumnDefinition>
+            <ColumnDefinition Width="386*"></ColumnDefinition>
+            <ColumnDefinition Width="263*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75*"></RowDefinition>
+            <RowDefinition Height="38*"></RowDefinition>
+            <RowDefinition Height="329*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="3">
+            <Image Margin="10,10,0,0" Source="Image/Лого ТНС.jpg"/>
+            <TextBlock Margin="80,0,0,0" Text="Телеком Нева Связь" FontSize="40" Height="54" Width="372"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.ColumnSpan="3" Width="750" Grid.Row="1">
+            <Button FontSize="30" VerticalAlignment="Center" Height="50" Width="250" Background="White" BorderBrush="White" Content="Поиск по адресу"/>
+            <Button FontSize="30" VerticalAlignment="Center" Height="50" Width="350" Background="White" BorderBrush="White" Content="Заявка на подключение"/>
+            <Button FontSize="30" VerticalAlignment="Center" Height="50" Width="150" Background="White" BorderBrush="White" Content="Тарифы"/>
+        </StackPanel>
+
+
+        <DataGrid Grid.Row="2" Grid.ColumnSpan="3" VerticalScrollBarVisibility="Visible">
+        </DataGrid>
+
+    </Grid>
+</Window>

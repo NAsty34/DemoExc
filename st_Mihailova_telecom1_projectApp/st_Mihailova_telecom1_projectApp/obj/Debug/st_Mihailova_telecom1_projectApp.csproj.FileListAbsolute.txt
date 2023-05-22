@@ -1,0 +1,105 @@
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.AssemblyReference.cache
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Application.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\PersonalAccount.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Rates.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\SearchByAddress.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\App.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_MarkupCompile.cache
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_MarkupCompile.lref
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.exe.config
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.exe
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.pdb
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Application.baml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.baml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Rates.baml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\SearchByAddress.baml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\PersonalAccount.baml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.g.resources
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.Properties.Resources.resources
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.GenerateResource.cache
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CoreCompileInputs.cache
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.exe
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.pdb
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_Content.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.AssemblyReference.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Application.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainWindow.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\PersonalAccount.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Rates.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\SearchByAddress.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\App.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_Content.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_MarkupCompile.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_MarkupCompile.lref
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.exe
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.pdb
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.exe.config
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.exe
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.pdb
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.dll
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.xml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Application.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainWindow.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\PersonalAccount.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Rates.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\SearchByAddress.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.g.resources
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.Properties.Resources.resources
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.GenerateResource.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CoreCompileInputs.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CopyComplete
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.dll
+C:\Users\imnv9\OneDrive\Рабочий стол\Учёба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.xml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.dll
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.dll
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.xml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.xml
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CopyComplete
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainNews.g.cs
+C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainNews.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.AssemblyReference.cache
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Application.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainNews.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\PersonalAccount.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Rates.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\SearchByAddress.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\App.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_Content.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_MarkupCompile.cache
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_MarkupCompile.lref
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.exe
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.pdb
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.exe.config
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.exe
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\st_Mihailova_telecom1_project.pdb
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.dll
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.dll
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.xml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.xml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Application.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainNews.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\PersonalAccount.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Rates.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\SearchByAddress.baml
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.g.resources
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.Properties.Resources.resources
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.GenerateResource.cache
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CoreCompileInputs.cache
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CopyComplete

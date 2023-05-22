@@ -11,7 +11,7 @@ namespace st_Mihailova_telecom1_projectApp
     /// <summary>
     /// Логика взаимодействия для App.xaml
     /// </summary>
-    public partial class App : Application
+    public partial class projectApp : Application
     {
     }
 }

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:st_Mihailova_telecom1_projectApp"
         mc:Ignorable="d"
-        Title="Rates" Height="1800" Width="900" Icon="Image/image.ico">
+        Title="Rates" Height="900" Width="900" Icon="Image/image.ico">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="251*"></ColumnDefinition>
@@ -13,9 +13,9 @@
             <ColumnDefinition Width="263*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="149*"></RowDefinition>
-            <RowDefinition Height="100*"></RowDefinition>
-            <RowDefinition Height="1635*"></RowDefinition>
+            <RowDefinition Height="74*"></RowDefinition>
+            <RowDefinition Height="65*"></RowDefinition>
+            <RowDefinition Height="303*"></RowDefinition>
         </Grid.RowDefinitions>
 
         <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="3">
@@ -23,7 +23,7 @@
             <TextBlock Margin="80,0,0,0" Text="Телеком Нева Связь" FontSize="40" Height="54" Width="372"/>
             <Button Margin="90,0,0,0" Width="150" Height="60" Content="LogIn" FontSize="30" Background="#B5DEFA"/>
         </StackPanel>
-        <TextBlock Grid.Row="1" Grid.ColumnSpan="3" FontSize="30" TextWrapping="Wrap" TextAlignment="Center" Text="Здесь вы можете посмотреть тарифы нашей компании" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="3" FontSize="30" TextWrapping="Wrap" TextAlignment="Center" Text="Здесь вы можете посмотреть тарифы нашей компании" VerticalAlignment="Center" Height="39"/>
         <DataGrid Grid.Row="2" Grid.ColumnSpan="3">
         </DataGrid>
     </Grid>

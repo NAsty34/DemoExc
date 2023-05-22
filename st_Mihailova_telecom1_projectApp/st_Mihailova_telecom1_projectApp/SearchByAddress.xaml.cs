@@ -19,9 +19,5 @@ namespace st_Mihailova_telecom1_projectApp
     /// </summary>
     public partial class SearchByAddress : Window
     {
-        public SearchByAddress()
-        {
-            InitializeComponent();
-        }
     }
 }
