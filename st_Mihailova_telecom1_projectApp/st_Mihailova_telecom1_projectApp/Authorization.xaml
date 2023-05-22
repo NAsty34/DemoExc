@@ -31,7 +31,7 @@
                 <TextBox x:Name="Code" KeyDown="Code_IsEnabledChanged" Margin="61,0,0,0" VerticalAlignment="Center" Width="150" FontSize="20"/>
                 <Button x:Name="UpdateCode" Click="UpdateCode_Click" Height="29" Width="32" Margin="10,0,0,0" BorderBrush="White" >
                     <Button.Background>
-                        <ImageBrush TileMode="FlipXY" ImageSource="/Авторизация_код.jpg" Stretch="UniformToFill"/>
+                        <ImageBrush TileMode="FlipXY" ImageSource="Image/Авторизация_код.jpg" Stretch="UniformToFill"/>
                     </Button.Background>
                 </Button>
             </StackPanel>

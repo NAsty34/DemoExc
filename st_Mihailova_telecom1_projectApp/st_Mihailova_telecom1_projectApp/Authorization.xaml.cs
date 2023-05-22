@@ -33,7 +33,6 @@ namespace st_Mihailova_telecom1_projectApp
 
         private void Check_enter(object sender, KeyEventArgs e)
         {
-            
             if (e.Key == Key.Enter)
             {
                 user = st1_Mihailova_telecomEntities.getContext().User.FirstOrDefault(a => a.Password == password.Text);
@@ -65,16 +64,7 @@ namespace st_Mihailova_telecom1_projectApp
             if (role != null && user != null && Code.Text == code.ToString())
             {
                 MessageBox.Show($"{role.Name}", "Role");
-                if (role.ID == 1)
-                {
-                    MessageBox.Show($"{role.Name}","Role");
-                    new MainNews().Show();
-                }
-                else
-                {
-                    new PersonalAccount().Show();
-                }
-                Close();
+                
             }
             else
             {
