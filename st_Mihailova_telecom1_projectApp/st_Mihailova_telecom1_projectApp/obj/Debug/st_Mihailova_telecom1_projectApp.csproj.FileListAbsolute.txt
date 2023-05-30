@@ -93,3 +93,5 @@ C:\Projects\демоэкзамен\Учет и паспортизация акт
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.GenerateResource.cache
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CoreCompileInputs.cache
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.CopyComplete
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainWindow.g.cs
+C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainWindow.baml

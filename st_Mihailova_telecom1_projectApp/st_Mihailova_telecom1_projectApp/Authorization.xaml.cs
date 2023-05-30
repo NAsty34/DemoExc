@@ -60,16 +60,17 @@ namespace st_Mihailova_telecom1_projectApp
 
         private void Login_Click(object sender, RoutedEventArgs e)
         {
-            
             if (role != null && user != null && Code.Text == code.ToString())
             {
                 MessageBox.Show($"{role.Name}", "Role");
-                
+                new MainWindow().Show();
+                Close();
             }
             else
             {
                 MessageBox.Show("Пароль, номер или код введены неправильно", "Data verification");
             }
+            
         }
 
         private void numder_enter(object sender, KeyEventArgs e)
@@ -117,8 +118,8 @@ namespace st_Mihailova_telecom1_projectApp
                     MessageBox.Show("Неверный код. Для обновения кода нажмите на иконку", "ErrorCod");
                 }
             }
-            
-            
         }
+
+      
     }
 }
