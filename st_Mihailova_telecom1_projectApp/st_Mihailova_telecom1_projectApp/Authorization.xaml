@@ -5,40 +5,44 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:st_Mihailova_telecom1_projectApp"
       mc:Ignorable="d"
-      Title="Authorization" Height="500" Width="800" Icon="Image/image.ico">
-    <Grid>
+      Title="Authorization" MinHeight="500" MinWidth="800" Icon="Image/image.ico">
+    <Viewbox>
+    <Grid Height="307">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="313*"></ColumnDefinition>
             <ColumnDefinition Width="137*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="97*"></RowDefinition>
+            <RowDefinition Height="70*"></RowDefinition>
             <RowDefinition Height="130*"></RowDefinition>
         </Grid.RowDefinitions>
-        <Image Source="Image/Лого ТНС.jpg" Grid.Column="1" VerticalAlignment="Center" Height="200"/>
-        <TextBlock Text="Телеком Нева Связь" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50" Height="70" Width="500"/>
-        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top" Grid.Row="1" Grid.Column="0">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Телеком Нева Связь" FontSize="40" Height="70" Width="379"/>
+                <Image Source="Image/Лого ТНС.jpg" Height="100" Margin="0,0,20,0"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center"  VerticalAlignment="Center" Grid.Row="1" Grid.Column="0">
             <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Номер" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30"/>
-                <TextBox x:Name="number" KeyDown="numder_enter" Margin="20,0,0,0" VerticalAlignment="Center" Width="200" FontSize="20"/>
+                <TextBlock Text="Номер" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                <TextBox x:Name="number" KeyDown="numder_enter" Margin="22,0,0,0" VerticalAlignment="Center" Width="200" FontSize="20"/>
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
-                <TextBlock Text="Пароль" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30"/>
-                <TextBox x:Name="password" KeyDown="Check_enter" Margin="10,0,0,0" VerticalAlignment="Center" Width="200" FontSize="20" Height="30"/>
+                <TextBlock Text="Пароль" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                <TextBox x:Name="password" KeyDown="Check_enter" Margin="15,0,0,0" VerticalAlignment="Center" Width="200" FontSize="20" Height="30"/>
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
-                <TextBlock Text="Код" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30"/>
-                <TextBox x:Name="Code" KeyDown="Code_IsEnabledChanged" Margin="61,0,0,0" VerticalAlignment="Center" Width="150" FontSize="20"/>
+                <TextBlock Text="Код" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                <TextBox x:Name="Code" KeyDown="Code_IsEnabledChanged" Margin="50,0,0,0" VerticalAlignment="Center" Width="150" FontSize="20"/>
                 <Button x:Name="UpdateCode" Click="UpdateCode_Click" Height="29" Width="32" Margin="10,0,0,0" BorderBrush="White" >
                     <Button.Background>
                         <ImageBrush TileMode="FlipXY" ImageSource="Image/Авторизация_код.jpg" Stretch="UniformToFill"/>
                     </Button.Background>
                 </Button>
             </StackPanel>
-            <StackPanel Orientation="Horizontal" Margin="0,50,0,0" HorizontalAlignment="Right">
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0" HorizontalAlignment="Center">
                 <Button x:Name="Cancel" Click="Cancel_button" Content="Отмена" VerticalAlignment="Center" Width="70" Height="25" BorderBrush="LightGray"/>
                 <Button x:Name="Login" Click="Login_Click" Content="Вход" Margin="65,0,0,0" VerticalAlignment="Center" Width="70" Height="25" BorderBrush="LightGray"/>
             </StackPanel>
         </StackPanel>
     </Grid>
+    </Viewbox>
 </Window>

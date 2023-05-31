@@ -15,23 +15,30 @@ namespace st_Mihailova_telecom1_project
     
     public partial class st1_Mihailova_telecomEntities : DbContext
     {
-        private static st1_Mihailova_telecomEntities baze;
+        private static st1_Mihailova_telecomEntities _TelecomEntities;
         public st1_Mihailova_telecomEntities()
             : base("name=st1_Mihailova_telecomEntities")
         {
         }
-
+    
         public static st1_Mihailova_telecomEntities getContext()
         {
-            if (baze == null) { baze = new st1_Mihailova_telecomEntities(); }
-            return baze;
+            if (_TelecomEntities == null) { _TelecomEntities = new st1_Mihailova_telecomEntities(); }
+            return _TelecomEntities;
         }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
         }
     
+        public virtual DbSet<Paul> Paul { get; set; }
+        public virtual DbSet<Reason> Reason { get; set; }
         public virtual DbSet<Role> Role { get; set; }
+        public virtual DbSet<SerialNumber> SerialNumber { get; set; }
+        public virtual DbSet<Services> Services { get; set; }
+        public virtual DbSet<Subscriber> Subscriber { get; set; }
+        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
+        public virtual DbSet<TypeOfContract> TypeOfContract { get; set; }
         public virtual DbSet<User> User { get; set; }
     }
 }

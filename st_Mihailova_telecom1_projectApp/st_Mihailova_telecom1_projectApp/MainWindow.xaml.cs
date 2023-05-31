@@ -19,9 +19,24 @@ namespace st_Mihailova_telecom1_project
     /// </summary>
     public partial class MainWindow : Window
     {
+        st1_Mihailova_telecomEntities data_base = new st1_Mihailova_telecomEntities();
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void DataUser_DataGrid(object sender, RoutedEventArgs e)
+        {
+            var query = from user in data_base.Subscriber
+                        orderby user.Name
+                        select new
+                        {
+                            ФИО = user.Name + " " + user.FirstName + " " + user.LastName,
+                            Абонентский_номер = user.NumberSubscriber,
+                            Лицевой_счет = user.PersonalAccount,
+                            Услуги = user.Services1.Name
+                        };
+            dataGrid_Client.ItemsSource = query.ToList();
         }
     }
 }

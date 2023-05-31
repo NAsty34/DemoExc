@@ -4,10 +4,22 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="f487301a56824722bfca2aba753cf435" Name="Diagram1">
-        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.Role" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.User" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+      <Diagram DiagramId="c63cabf26c66471888df3cc2b21f9bd6" Name="Diagram1" ZoomLevel="80">
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.Paul" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.Reason" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.Role" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.SerialNumber" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.Services" Width="1.5" PointX="0.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.Subscriber" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.TypeOfContract" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="st1_Mihailova_telecomModel.User" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="st1_Mihailova_telecomModel.FK_Subscriber_Paul" ManuallyRouted="false" />
+        <AssociationConnector Association="st1_Mihailova_telecomModel.FK_Subscriber_Reason" ManuallyRouted="false" />
         <AssociationConnector Association="st1_Mihailova_telecomModel.FK_User_User" ManuallyRouted="false" />
+        <AssociationConnector Association="st1_Mihailova_telecomModel.FK_Subscriber_SerialNumber" ManuallyRouted="false" />
+        <AssociationConnector Association="st1_Mihailova_telecomModel.FK_Subscriber_Services" ManuallyRouted="false" />
+        <AssociationConnector Association="st1_Mihailova_telecomModel.FK_Subscriber_TypeOfContract" ManuallyRouted="false" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

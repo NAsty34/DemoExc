@@ -69,7 +69,6 @@ C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспо�
 C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainNews.g.cs
 C:\Users\imnv9\Desktop\учеба\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\MainNews.baml
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.AssemblyReference.cache
-C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_projectApp.csproj.SuggestedBindingRedirects.cache
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.g.cs
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\App.g.cs
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project_Content.g.cs
@@ -86,7 +85,6 @@ C:\Projects\демоэкзамен\Учет и паспортизация акт
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.xml
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\EntityFramework.SqlServer.xml
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\log4net.xml
-C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\bin\Debug\ru\EntityFramework.resources.dll
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\Authorization.baml
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.g.resources
 C:\Projects\демоэкзамен\Учет и паспортизация активов\st_Mihailova_telecom1_projectApp\st_Mihailova_telecom1_projectApp\obj\Debug\st_Mihailova_telecom1_project.Properties.Resources.resources

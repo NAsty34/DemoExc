@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="st1_Mihailova_telecomModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Paul">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Subscriber" Relationship="Self.FK_Subscriber_Paul" FromRole="Paul" ToRole="Subscriber" />
+  </EntityType>
+  <EntityType Name="Reason">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Subscriber" Relationship="Self.FK_Subscriber_Reason" FromRole="Reason" ToRole="Subscriber" />
+  </EntityType>
   <EntityType Name="Role">
     <Key>
       <PropertyRef Name="ID" />
@@ -8,6 +24,73 @@
     <Property Name="Number" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
     <NavigationProperty Name="User" Relationship="Self.FK_User_User" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="SerialNumber">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Number" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Subscriber" Relationship="Self.FK_Subscriber_SerialNumber" FromRole="SerialNumber" ToRole="Subscriber" />
+  </EntityType>
+  <EntityType Name="Services">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Subscriber" Relationship="Self.FK_Subscriber_Services" FromRole="Services" ToRole="Subscriber" />
+  </EntityType>
+  <EntityType Name="Subscriber">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumberSubscriber" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="PaulId" Type="Int32" Nullable="false" />
+    <Property Name="DataBirthday" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="NumberPhone" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ResidenceAddress" Type="String" MaxLength="150" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FactAddress" Type="String" MaxLength="150" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PassportSeriesAndNumber" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UnitCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IssuedByWhom" Type="String" MaxLength="150" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DateOfPassportIssue" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="NumberContract" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DateOfConclusionOfTheContract" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TypeContract" Type="Int32" Nullable="false" />
+    <Property Name="ReasonForTerminationOfTheContract" Type="Int32" />
+    <Property Name="PersonalAccount" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Services" Type="Int32" Nullable="false" />
+    <Property Name="DateOfTerminationOfTheContract" Type="DateTime" Precision="0" />
+    <Property Name="SerialNumberOfTheEquipment" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Paul" Relationship="Self.FK_Subscriber_Paul" FromRole="Subscriber" ToRole="Paul" />
+    <NavigationProperty Name="Reason" Relationship="Self.FK_Subscriber_Reason" FromRole="Subscriber" ToRole="Reason" />
+    <NavigationProperty Name="SerialNumber" Relationship="Self.FK_Subscriber_SerialNumber" FromRole="Subscriber" ToRole="SerialNumber" />
+    <NavigationProperty Name="Services1" Relationship="Self.FK_Subscriber_Services" FromRole="Subscriber" ToRole="Services" />
+    <NavigationProperty Name="TypeOfContract" Relationship="Self.FK_Subscriber_TypeOfContract" FromRole="Subscriber" ToRole="TypeOfContract" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TypeOfContract">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Type" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Subscriber" Relationship="Self.FK_Subscriber_TypeOfContract" FromRole="TypeOfContract" ToRole="Subscriber" />
   </EntityType>
   <EntityType Name="User">
     <Key>
@@ -22,6 +105,30 @@
     <Property Name="Number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
     <NavigationProperty Name="Role" Relationship="Self.FK_User_User" FromRole="User" ToRole="Role" />
   </EntityType>
+  <Association Name="FK_Subscriber_Paul">
+    <End Role="Paul" Type="Self.Paul" Multiplicity="1" />
+    <End Role="Subscriber" Type="Self.Subscriber" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paul">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Subscriber">
+        <PropertyRef Name="PaulId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Subscriber_Reason">
+    <End Role="Reason" Type="Self.Reason" Multiplicity="0..1" />
+    <End Role="Subscriber" Type="Self.Subscriber" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reason">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Subscriber">
+        <PropertyRef Name="ReasonForTerminationOfTheContract" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <Association Name="FK_User_User">
     <End Role="Role" Type="Self.Role" Multiplicity="1" />
     <End Role="User" Type="Self.User" Multiplicity="*" />
@@ -34,12 +141,75 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Association Name="FK_Subscriber_SerialNumber">
+    <End Role="SerialNumber" Type="Self.SerialNumber" Multiplicity="1" />
+    <End Role="Subscriber" Type="Self.Subscriber" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SerialNumber">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Subscriber">
+        <PropertyRef Name="SerialNumberOfTheEquipment" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Subscriber_Services">
+    <End Role="Services" Type="Self.Services" Multiplicity="1" />
+    <End Role="Subscriber" Type="Self.Subscriber" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Services">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Subscriber">
+        <PropertyRef Name="Services" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Subscriber_TypeOfContract">
+    <End Role="TypeOfContract" Type="Self.TypeOfContract" Multiplicity="1" />
+    <End Role="Subscriber" Type="Self.Subscriber" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeOfContract">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Subscriber">
+        <PropertyRef Name="TypeContract" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <EntityContainer Name="st1_Mihailova_telecomEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Paul" EntityType="Self.Paul" />
+    <EntitySet Name="Reason" EntityType="Self.Reason" />
     <EntitySet Name="Role" EntityType="Self.Role" />
+    <EntitySet Name="SerialNumber" EntityType="Self.SerialNumber" />
+    <EntitySet Name="Services" EntityType="Self.Services" />
+    <EntitySet Name="Subscriber" EntityType="Self.Subscriber" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="TypeOfContract" EntityType="Self.TypeOfContract" />
     <EntitySet Name="User" EntityType="Self.User" />
+    <AssociationSet Name="FK_Subscriber_Paul" Association="Self.FK_Subscriber_Paul">
+      <End Role="Paul" EntitySet="Paul" />
+      <End Role="Subscriber" EntitySet="Subscriber" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Subscriber_Reason" Association="Self.FK_Subscriber_Reason">
+      <End Role="Reason" EntitySet="Reason" />
+      <End Role="Subscriber" EntitySet="Subscriber" />
+    </AssociationSet>
     <AssociationSet Name="FK_User_User" Association="Self.FK_User_User">
       <End Role="Role" EntitySet="Role" />
       <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Subscriber_SerialNumber" Association="Self.FK_Subscriber_SerialNumber">
+      <End Role="SerialNumber" EntitySet="SerialNumber" />
+      <End Role="Subscriber" EntitySet="Subscriber" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Subscriber_Services" Association="Self.FK_Subscriber_Services">
+      <End Role="Services" EntitySet="Services" />
+      <End Role="Subscriber" EntitySet="Subscriber" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Subscriber_TypeOfContract" Association="Self.FK_Subscriber_TypeOfContract">
+      <End Role="TypeOfContract" EntitySet="TypeOfContract" />
+      <End Role="Subscriber" EntitySet="Subscriber" />
     </AssociationSet>
   </EntityContainer>
 </Schema>
